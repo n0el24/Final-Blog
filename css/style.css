@@ -82,6 +82,9 @@ nav {
 }
 /*MENU RESPONSIVE*/
 .topnav {
+  display: flex;
+align-items: center;
+justify-content: center;
   overflow: hidden;
   background-color: rgba(229, 161, 15, 0.935);
 }
